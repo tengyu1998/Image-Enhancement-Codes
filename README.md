@@ -1,7 +1,5 @@
 # Image-Enhancement-Codes
 
-# Image-Enhancement-Codes
-
 
 ## Model Optimization Methods
 [SRIE](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip)
