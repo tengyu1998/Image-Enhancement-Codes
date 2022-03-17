@@ -36,7 +36,7 @@
 
 [DeepUPE](https://github.com/dvlab-research/DeepUPE)
 
-[FIDE](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
+[DRBN](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
 
 CVPR2020 [Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE)
 
