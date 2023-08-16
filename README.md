@@ -44,5 +44,6 @@ CVPR2021 [RUAS](https://github.com/vis-opt-group/RUAS)
 
 ICCV2021 [UTVNet](https://github.com/CharlieZCJ/UTVNet)
 
+CVPR 2022. [DCC](https://github.com/Ian0926/DCC-Net)
 
 ## Another summary of related work. [link](https://github.com/dawnlh/awesome-low-light-image-enhancement)
